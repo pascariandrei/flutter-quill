@@ -3,5 +3,4 @@ dependency_overrides:
     path: ./flutter_quill_test
   dart_quill_delta:
     path: ./dart_quill_delta
-  flutter_quill_delta_from_html: ^1.1.4
    
